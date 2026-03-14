@@ -166,7 +166,7 @@
               "consumesItems": []
             },
             {
-              "bpPath": "/ArkDescended/Items/Summon/Abyssal/Element/PrimalItemConsumableEatable_SpawnAbyssalElement.PrimalItemConsumableEatable_SpawnAbyssalElement'",
+              "bpPath": "/ArkDescended/Items/Soul/Element/PrimalItemResource_AbyssalElement.PrimalItemResource_AbyssalElement",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
