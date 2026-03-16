@@ -286,7 +286,7 @@
               "consumesItems": []
             },
             {
-              "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ShardRefined.PrimalItemResource_ShardRefined",
+              "bpPath": "/ArkDescended/Items/Soul/T4/Trophy/PrimalItemResource_AbyssalDodoReaperTrophy.PrimalItemResource_AbyssalDodoReaperTrophy'",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
