@@ -176,6 +176,66 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
+            },
+            {
+              "bpPath": "/ArkDescended/Dinos/ADBoss/WorldBoss/CombatCore/PrimalItemResource_CombatTributeDragon.PrimalItemResource_CombatTributeDragon'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            },
+            {
+              "bpPath": "/ArkDescended/Dinos/ADBoss/WorldBoss/CombatCore/PrimalItemResource_CombatTributeGorilla.PrimalItemResource_CombatTributeGorilla'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            },
+            {
+              "bpPath": "/ArkDescended/Dinos/ADBoss/WorldBoss/CombatCore/PrimalItemResource_CombatTributeSpider.PrimalItemResource_CombatTributeSpider'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            },
+            {
+              "bpPath": "/ArkDescended/Items/Essence/BossEssence/ExcellentBoss/PrimalItemResource_BossTributeFlyer.PrimalItemResource_BossTributeFlyer'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            },
+            {
+              "bpPath": "/ArkDescended/Items/Essence/BossEssence/ExcellentBoss/PrimalItemResource_BossTributeLand.PrimalItemResource_BossTributeLand'",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
             }
           ]
         }
